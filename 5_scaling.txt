@@ -1,0 +1,12 @@
+focus on consistency
+helps maintainance
+helps with scaling up
+
+other qualities:
+completeness - meets solution requirements
+correctness - mission critical 
+coupling - degree to which components are related
+cohesion - the degree of independence 
+
+simplicity and generality trade off
+
